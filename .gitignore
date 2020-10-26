@@ -1,2 +1,2 @@
-postgres/data/*
-mongo/data/*
+/postgres/data/**
+/mongo/data/**
