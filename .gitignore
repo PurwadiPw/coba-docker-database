@@ -1,5 +1,2 @@
 /postgres/data/**
 /mongo/data/**
-
-!/postgres/**/.gitkeep
-!/mongo/data/**/.gitkeep
