@@ -17,7 +17,7 @@ services:
     image: mongo
     container_name: mongoDb
     volumes:
-      - ./postgres/data:/data/db
+      - ./mongo/data:/data/db
     ports:
       - 27017:27017
     networks:
